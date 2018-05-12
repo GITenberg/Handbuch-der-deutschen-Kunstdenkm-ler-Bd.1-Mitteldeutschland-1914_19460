@@ -1,0 +1,33 @@
+_repo: Handbuch-der-deutschen-Kunstdenkm-ler-Bd.1-Mitteldeutschland-1914_19460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dehio, Georg
+    birthdate: 1850
+    deathdate: 1932
+    gutenberg_agent_id: '8691'
+    url: http://www.gutenberg.org/2009/agents/8691
+    wikipedia: http://de.wikipedia.org/wiki/Georg_Dehio
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- German Language Books
+- Art
+gutenberg_issued: '2006-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19460'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art -- Germany'
+- !lcsh 'Germany -- Guidebooks'
+- !lcsh 'Architecture -- Germany'
+title: Handbuch der deutschen Kunstdenkmäler, Bd.1, Mitteldeutschland, 1914
+url: http://www.gutenberg.org/ebooks/19460
