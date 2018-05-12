@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8691
     wikipedia: http://de.wikipedia.org/wiki/Georg_Dehio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19460#Handbuch-der-deutschen-Kunstdenkm-ler-Bd.1-Mitteldeutschland-1914
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
